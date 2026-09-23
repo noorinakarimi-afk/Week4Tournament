@@ -8,7 +8,8 @@
 #############################################
 
 # THIS IS WHERE YOU CODE
-print("Welcome to Week4Tournament")
+print("Welcome to Week4Tournament!")
+print("Your host today is Noorina so be sure to sit tight and give good answers.")
 #Read in team 1 name
 print("What is team 1? ")
 team1 = input()
